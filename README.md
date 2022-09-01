@@ -1,2 +1,2 @@
 # RedTeam-Writeups
-Writeups for various Blue Team related topics
+Writeups for various Red Team related topics
